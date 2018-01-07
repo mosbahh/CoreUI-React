@@ -1,0 +1,17 @@
+.journey-goal i {
+  font-size: 30px;
+  /* margin-right: 10px; */
+  color: #bdbdbd;
+}
+
+.journey-goal h3 {
+  display: inline;
+  color: #0288d1;
+}
+
+.journey-goal div {
+  /* margin-left: 40px; */
+}
+.journey-goal {
+  margin-bottom: 20px;
+}
